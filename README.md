@@ -2,7 +2,7 @@
 
 The Expense Reimbursement System manage the process of reimbursing employees for expenses while on company time. Employees  can login and submit requests for reimbursement. Managers can log in and view all reimbursement requests and authorized to approve and deny requests for expense reimbursement.
 
-#Technologies Used
+# Technologies Used
 
 AWS Web Service
 
@@ -30,7 +30,7 @@ Visual Studio Code
 
 
 
-#Testing 
+# Testing 
 
 Frontend developed with JS, HTML, CSS
 
